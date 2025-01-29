@@ -15,13 +15,13 @@
       .typeString("Full-Stack Web Developer")
       .pauseFor(2000)
       .deleteAll(10)
-      .typeString("Team Lead")
+      .typeString("Web Designer")
       .pauseFor(2000)
       .deleteAll(10)
       .typeString("Software Generalist")
       .pauseFor(2000)
       .deleteAll(10)
-      .typeString("Entrepreneur")
+      .typeString("Learning & Growing Every Day")
       .pauseFor(2000)
       .start();
   }
